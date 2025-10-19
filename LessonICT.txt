@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>ICT Lessons</title>
+</head>
+ 
+<body style="background-color:#5E548E; margin:0; text-align:center; font-family:Arial;">
+
+<div style="background-color:#C9A7EB; width:90%; max-width:1500px; padding:30px; border-radius:50px; margin:20px auto;">
+
+<h2>Lesson 1: Introduction to CSS</h2>
+
+<div style="background-color:#F3E8FF; border-radius:10px; padding:10px; width:80%; margin:10px auto;">
+
+<p>Cascading Style Sheets (CSS) is the language used to design and style a webpage.
+It controls how HTML elements look like colors, fonts, layouts, and spacing, so the website looks nice and organized.</p>
+</div>
+
+<!-- First image!-->
+<div>
+  <h3>Content Layer</h3>
+  <img src="ICTp1.jpg" alt="ICT 1" width="600" height="500" style="margin:5px; border-radius:10px;">
+  <br>
+  <a href="ICT1.txt" style="display:inline-block; background-color:#FF875F; color:white; padding:8px 15px; border-radius:20px; text-decoration:none;">View More</a>
+</div>
+
+<!-- Second image!! -->
+<div>
+  <h3>Presentation Layer</h3>
+  <img src="ICTp2.jpg" alt="ICT 2" width="600" height="500" style="margin:5px; border-radius:10px;">
+  <br>
+ 
+</div>
+
+<!-- Third image!!! -->
+<div>
+  <h3>Behavior Layer</h3>
+  <img src="ICTp3.jpg" alt="ICT 3" width="600" height="500" style="margin:5px; border-radius:10px;">
+  <br>
+  <a href="ICT1.html" style="display:inline-block; background-color:#FF875F; color:white; padding:8px 15px; border-radius:20px; text-decoration:none;">Try here!!</a>
+</div>
+
+
+<div style="background-color:#F3E8FF; border-radius:10px; padding:10px; width:80%; margin:10px auto;">
+<div style="text-align:left; margin-left:30px;">
+<ul>
+  <strong style="font-size:24px;">Learnings:</strong>
+<li> CSS is a very helpful tool in web design because it makes webpages look neat, colorful, and organized.</li>
+<li>Its capability is to change the style of a website, like the colors, fonts, and layout, without changing the main content. </li>
+<li>One advantage of using CSS is that it saves time, you can style many pages at once. The benefit is that it helps make websites more attractive and easier to read. </li>
+<li>In creating a webpage, the presentation layer shows the design using CSS, the behavior layer adds actions using JavaScript, and the content layer holds the text and images using HTML. </li>
+<li> CSS can be used to make websites look professional and creative. It allows us to express our ideas and make information more interesting to others.</li>
+</ul> 
+</div>
+</div>
+
+<br><br>
+<a href="Nextpage1.html" style="display:inline-block; background-color:#FF875F; color:white; padding:10px 20px; border-radius:20px; text-decoration:none;">Back</a>
+<a href="LessonICT(2).html" style="display:inline-block; background-color:#FF875F; color:white; padding:10px 20px; border-radius:20px; text-decoration:none;">Next page</a> <br><br>
+
+</div>
+
+</body>
+</html>

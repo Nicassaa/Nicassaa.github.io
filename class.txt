@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Class Selector</title>
+<style>
+body { background:#F3E8FF; font-family:Arial; color:#3E1E68; padding:25px; }
+h1 { color:#7A4EBF; text-align:center; }
+    
+.highlight { background:#D8B4FE; color:white; padding:10px; border-radius:8px; display:inline-block; }
+.big { font-size:20px; font-weight:bold; color:#4B2E83; }
+.box { background:#FAF5FF; padding:12px; border-radius:10px; width:90%; max-width:600px; margin:12px auto; text-align:left; }
+
+.button {display: block;
+background: #FF875F;
+color: white;
+text-decoration: none;
+border-radius: 10px;
+padding: 10px;
+width: 200px;
+margin: 10px auto;}
+  </style>
+</head>
+
+
+<body>
+  <h1>Class Selector</h1>
+<div class="box">
+<p class="highlight">This &lt;p&gt; uses the <code>.highlight</code> class.</p>
+<p class="big">This &lt;p&gt; uses the <code>.big</code> class.</p>
+<p class="highlight big">Both classes can be used together on the same element.</p>
+  </div>
+<a href="class.txt" class="button" target="_blank">View my Txt file</a>
+<a href="LessonICT(5).html" class="button">Back</a>
+</body>
+</html>

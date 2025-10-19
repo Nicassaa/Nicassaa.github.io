@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+  <title>CSS Selectors Examples - Index</title>
+  <style>
+    body {background-color: #E9D7FF;
+ font-family: Arial;
+   color: #3E1E68;
+ text-align: center;
+  margin: 0;
+padding: 0;}
+
+a {display: block;
+   margin: 10px auto;
+ width: 250px;
+  background-color: #A066C9;
+   color: white;
+   padding: 10px;
+    border-radius: 8px;
+  text-decoration: none;}
+
+h1 {color: #5C3C92;}
+
+.box {background-color: #F5E6FA;
+ border-radius: 15px;
+padding: 20px;
+width: 80%;
+ margin: 20px auto;}
+
+ol {text-align: left;
+margin-left: 40px;
+  line-height: 1.6;}
+
+h2 {color: #4B2E83;}
+
+.button {display: inline-block;
+ background-color: #FF875F;
+  color: white;
+padding: 10px 25px;
+  border-radius: 20px;
+  text-decoration: none;
+  margin: 5px;}
+  </style>
+<style type="text/css" id="operaUserStyle"></style></head>
+<style>
+    body {background-color: #E9D7FF;
+ font-family: Arial;
+   color: #3E1E68;
+ text-align: center;
+  margin: 0;
+padding: 0;}
+
+a {display: block;
+   margin: 10px auto;
+ width: 250px;
+  background-color: #A066C9;
+   color: white;
+   padding: 10px;
+    border-radius: 8px;
+  text-decoration: none;}
+
+h1 {color: #5C3C92;}
+
+.box {background-color: #F5E6FA;
+ border-radius: 15px;
+padding: 20px;
+width: 80%;
+ margin: 20px auto;}
+
+ol {text-align: left;
+margin-left: 40px;
+  line-height: 1.6;}
+
+h2 {color: #4B2E83;}
+
+.button {display: inline-block;
+ background-color: #FF875F;
+  color: white;
+padding: 10px 25px;
+  border-radius: 20px;
+  text-decoration: none;
+  margin: 5px;}
+  </style>
+</head>
+
+
+<body>
+
+
+<div class="box">
+  <h2>Lesson 5: CSS SELECTORS</h2>
+<div style="background-color:#EDE0FF; border-radius:10px; padding:15px; width:90%; margin:10px auto;">
+<p>In this lesson, I learned about <b>CSS Selectors</b>, which are used to choose or “select” parts of an HTML page that we want to design.</p>
+<p>Selectors help us apply different styles like color, font, or background to specific elements.</p>
+<p>There are many kinds of selectors such as class, ID, element, universal, group, and attribute selectors, and each one has its own purpose.</p>
+<p>Understanding CSS selectors makes it easier to create clean, organized, and creative web designs.</p>
+</div>
+</div>
+
+<h1>CSS Selectors — Examples</h1>
+<p>Click a page to open a separate example.</p>
+
+<a href="element.html" target="_blank">1. Element Selector</a>
+<a href="class.html" target="_blank">2. Class Selector</a>
+<a href="id.html" target="_blank">3. ID Selector</a>
+<a href="universal.html" target="_blank">4. Universal Selector</a>
+<a href="group.html" target="_blank">5. Group Selector</a>
+<p target="_blank">6. Attribute Selector</p>
+
+<!-- REFLECTION -->
+<div class="box">
+  <h3>Learnings:</h3>
+<ul>
+<li>I learned that CSS selectors are used to choose which parts of an HTML page we want to design or style.</li>
+<li>The lesson taught me about different types of selectors like class, element, ID, universal, group, and attribute.</li>
+<li>I understood that the class selector can be used many times, while the ID selector is for unique elements only.</li>
+<li>The element selector styles all of one type of tag (like all <p> tags), and the universal selector styles everything on the page.</p></li>
+<li>I also learned that group selectors save time by styling multiple elements together, and attribute selectors let us style tags based on their attributes.</li>
+<li>Overall, this lesson helped me realize how selectors make CSS powerful and organized, helping web designers easily control how every part of a webpage looks.</li>
+</ul>
+</div>
+
+<a href="LessonICT(4).html" class="button">Back</a>
+<a href="LessonICT(6).html" class="button">Next Page</a>
+
+
+
+
+</body>
+</html>

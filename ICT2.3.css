@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>External CSS Example</title>
+<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+
+<body>
+  <h1>My ICT Lesson</h1>
+  <p>This webpage uses an external stylesheet with type="text/css".</p>
+</body>
+</html>
+

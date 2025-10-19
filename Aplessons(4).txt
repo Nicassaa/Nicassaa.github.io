@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>AP lessons</title>
+</head>
+ 
+<body style="background-color:#A9746E; margin:0; text-align:center; font-family:Arial;">
+
+<div style="background-color:#A3B18A; width:90%; max-width:1500px; padding:30px; border-radius:50px; margin:20px auto;">
+
+<h2>Lesson 4: MARKET EQUILIBRIUM </h2>
+
+<div style="background-color:#FFDDC1; border-radius:10px; padding:10px; width:80%; margin:10px auto;">
+
+<p> Kalagayan sa pamilihan kung saan pantay ang dami ng demand at supply sa isang tiyak na presyo.</p>
+</div>
+
+<!-- First image!-->
+<div>
+  <h3> Equilibrium, shortage, surplus </h3>
+  <img src="APp7.jpg" alt="AP 7" width="600" height="500" style="margin:5px; border-radius:10px;"
+<!-- Second image!! -->
+<div>
+  <img src="APp8.jpg" alt="AP 8" width="600" height="500" style="margin:5px; border-radius:10px;">
+  <br>
+ <img src="APp9.jpg" alt="AP 9" width="600" height="500" style="margin:5px; border-radius:10px;">
+</div>
+
+
+
+<div style="background-color:#F3E8FF; border-radius:10px; padding:10px; width:80%; margin:10px auto;">
+<div style="text-align:left; margin-left:30px;">
+<dl>
+<dt> EQUILIBRIUM PRICE </dt>
+<dd> Ang presyo kung saan nagtatagpo ang demand at supply.</dd>
+<br>
+<dt>Equilibrium Quantity </dt>
+<dd>Ang dami ng produkto na handang bilhin at ibenta sa equilibrium price. </dd>
+<br>
+<dt>SHORTAGE: </dt>
+<dd> Demand= tataas; Supply= bababa</dd>
+<br>
+<dt> SURPLUS: </dt>
+<dd> Demand= bababa; Supply= tataas </dd>
+</dl> 
+</div>
+</div>
+
+<br><br>
+<a href="Aplessons(3).html" style="display:inline-block; background-color:#FF875F; color:white; padding:10px 20px; border-radius:20px; text-decoration:none;">Back</a>
+<a href="Aplessons(5).html" style="display:inline-block; background-color:#FF875F; color:white; padding:10px 20px; border-radius:20px; text-decoration:none;">Next page</a> <br><br>
+
+</div>
+
+</body>
+</html>

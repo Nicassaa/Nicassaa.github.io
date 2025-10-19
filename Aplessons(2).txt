@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>AP lessons</title>
+</head>
+ 
+<body style="background-color:#BFA6A0; margin:0; text-align:center; font-family:Arial;">
+
+<div style="background-color:#B2C2B2; width:90%; max-width:1500px; padding:30px; border-radius:50px; margin:20px auto;">
+
+<h2>Lesson 2: SUPPLY </h2>
+
+<div style="background-color:#FFE5B4; border-radius:10px; padding:10px; width:80%; margin:10px auto;">
+
+<p>Tumutukoy sa dami ng produkto o serbisyo na nais at kayang ipagbili ng mga prodyuser sa isang takdang presyo at panahon.</p>
+</div>
+
+<!-- First image!-->
+<div>
+  <h3> SUPPLY </h3>
+  <img src="APp3.jpg" alt="AP 2" width="600" height="500" style="margin:5px; border-radius:10px;"
+<!-- Second image!! -->
+<div>
+  <img src="APp4.jpg" alt="AP 3" width="600" height="500" style="margin:5px; border-radius:10px;">
+  <br>
+</div>
+
+
+
+<div style="background-color:#F3E8FF; border-radius:10px; padding:10px; width:80%; margin:10px auto;">
+<div style="text-align:left; margin-left:30px;">
+<dl>
+  <strong style="font-size:24px;">CETERIS PARIBUS</strong>
+<dt> Batas ng Supply (Law of Supply) – Kapag tumaas ang presyo, tumataas ang dami ng supply; at kapag bumaba ang presyo, bumababa ang supply, habang ang ibang salik ay hindi nagbabago (ceteris paribus).</dt>
+<dd> - Presyo ang pinakamahalagang determinant ng supply<dd>
+<dd> suplay= pagnanais+kakayahan</dd>
+<br>
+<dt> Supply Schedule </dt>
+<dd> Table form na nagpapakita ng bilang ng mga kalakal o serbisyo na hinihiling sa tiyak na presyo </dd>
+<br>
+<dt> Supply Function </dt>
+<dd> Matematikong pagpapakita sa ugnayan ng presyo at quantity supply sa pamamagitan ng Qs=f(P) </dd>
+<br>
+<dt> Supply Curve </dt>
+<dd> Ang presentasyon ng pinagsamang supply schedule at supply function </dd>
+</dl> 
+</div>
+</div>
+
+<br><br>
+<a href="Aplessons.html" style="display:inline-block; background-color:#FF875F; color:white; padding:10px 20px; border-radius:20px; text-decoration:none;">Back</a>
+<a href="Aplessons(3).html" style="display:inline-block; background-color:#FF875F; color:white; padding:10px 20px; border-radius:20px; text-decoration:none;">Next page</a> <br><br>
+
+</div>
+
+</body>
+</html>

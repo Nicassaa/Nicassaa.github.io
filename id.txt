@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>ID Selector</title>
+  <style>
+body { background:#EFE5FF; font-family:Arial; color:#3E1E68; padding:25px; }
+h1 { color:#6B4E71; text-align:center; }
+/* id selector: used for one unique element */
+#header { background:#A066C9; color:white; padding:12px; border-radius:8px; width:90%; max-width:700px; margin:12px auto; }
+p { text-align:left; max-width:700px; margin:8px auto; }
+
+.button {display: inline-block;
+background-color: #FF875F;
+color: white;
+padding: 10px 20px;
+border-radius: 20px;
+text-decoration: none;
+margin: 5px;}
+  </style>
+</head>
+<body>
+  <h1>ID Selector</h1>
+  <div id="header">This element uses the <code>id="header"</code> and is styled by <code>#header</code>.</div>
+  <p>IDs are meant for unique elements that only appear once per page (like a header or main section).</p>
+
+<a href="id.txt" class="button" target="_blank">View my Txt file</a>
+<a href="LessonICT(5).html" class="button">Back</a>
+</body>
+</html>

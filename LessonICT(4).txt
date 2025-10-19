@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>ICT Lessons</title>
+</head>
+ 
+<body style="background-color:#3E1E68; margin:0; text-align:center; font-family:Arial;">
+
+<div style="background-color:#A066C9; width:90%; max-width:1500px; padding:30px; border-radius:50px; margin:20px auto;">
+
+<h2>Lesson 4: CSS Class </h2>
+
+<div style="background-color:#E8D1FF; border-radius:10px; padding:10px; width:80%; margin:10px auto;">
+
+<p> In this lesson, I learned about CSS Classes, which are used to style specific parts of a webpage.</p>
+<p>A class lets us apply the same design to many elements without repeating the code.</p>
+<p>It helps make web pages more organized, consistent, and easy to update.</p>
+<p>I also learned how to create, call, and combine classes in HTML and CSS to make my designs neat and creative.</p>
+</div>
+
+
+<div>
+  <h3>Class Selector</h3>
+ <img src="ICTp14.jpg" alt="ICT 10" width="600" height="500" style="margin:5px; border-radius:10px;">
+<br>
+ <img src="ICTp15.jpg" alt="ICT 11" width="600" height="500" style="margin:5px; border-radius:10px;">
+<br>
+  <a href="ICT4.1.html" style="display:inline-block; background-color:#FF875F; color:white; padding:8px 15px; border-radius:20px; text-decoration:none;">View More</a>
+</div>
+
+<div style="background-color:#E8D1FF; border-radius:10px; padding:10px; width:80%; margin:10px auto;">
+<div style="text-align:left; margin-left:30px;">
+<p style="font-size:26px; font-weight:bold; color:purple;">Learnings:</p>
+<ul>
+<li>It explains what classes are in CSS — reusable styles that you can apply to many elements.</li>
+
+<li>It shows how to create a class using a dot (.) like .highlight {color: green;}.</li>
+
+<li>It teaches how to apply a class to HTML using class="classname".</li>
+
+<li>It also covers element + class selectors (like p.note {color: blue;}), which target only a specific element type.</li>
+
+<li>Lastly, it mentions grouping selectors — combining multiple selectors with commas to make your CSS shorter and cleaner.</li>
+</ul> 
+</div>
+</div>
+
+<br><br>
+<a href="LessonICT(3).html" style="display:inline-block; background-color:#FF875F; color:white; padding:10px 20px; border-radius:20px; text-decoration:none;">Back</a>
+<a href="LessonICT(5).html" style="display:inline-block; background-color:#FF875F; color:white; padding:10px 20px; border-radius:20px; text-decoration:none;">Next Page</a> <br><br>
+
+</div>
+
+</body>
+</html>

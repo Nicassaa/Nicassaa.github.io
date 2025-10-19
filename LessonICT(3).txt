@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>ICT Lessons</title>
+</head>
+ 
+<body style="background-color:#544179; margin:0; text-align:center; font-family:Arial;">
+
+<div style="background-color:#CBB2FE; width:90%; max-width:1500px; padding:30px; border-radius:50px; margin:20px auto;">
+
+<h2>Lesson 3: Span and Div Tag </h2>
+
+<div style="background-color:#F5E6FA; border-radius:10px; padding:10px; width:80%; margin:10px auto;">
+
+<p> 🌸A stylesheet is a file or code that controls how a webpage looks. 
+
+It contains CSS rules that set the colors, fonts, layouts, and design of HTML elements, making the website neat and attractive.</p>
+</div>
+
+<!-- First image!-->
+<div>
+  <h3>SPAN TAG</h3>
+ <img src="ICTp10.jpg" alt="ICT 10" width="600" height="500" style="margin:5px; border-radius:10px;">
+<br>
+ <img src="ICTp11.jpg" alt="ICT 11" width="600" height="500" style="margin:5px; border-radius:10px;">
+<br>
+  <a href="ICT3.1.html" style="display:inline-block; background-color:#FF875F; color:white; padding:8px 15px; border-radius:20px; text-decoration:none;">View More</a>
+</div>
+
+<!-- Second image!! -->
+<div>
+  <h3>DIV TAG</h3>
+  <img src="ICTp12.jpg" alt="ICT 12" width="600" height="500" style="margin:5px; border-radius:10px;">
+  <br>
+  <img src="ICTp13.jpg" alt="ICT 13" width="600" height="500" style="margin:5px; border-radius:10px;">
+<br>
+  <a href="ICT3.2.html" style="display:inline-block; background-color:#FF875F; color:white; padding:8px 15px; border-radius:20px; text-decoration:none;">View More</a>
+</div>
+
+
+<div style="background-color:#F5E6FA; border-radius:10px; padding:10px; width:80%; margin:10px auto;">
+<div style="text-align:left; margin-left:30px;">
+<p style="font-size:26px; font-weight:bold; color:purple;">Learnings:</p>
+<ul>
+  <li>I learned that the <b>&lt;span&gt;</b> tag is used to style small parts of text inside a line, like changing the color or font of one word.</li>
+  <li>The <b>&lt;div&gt;</b> tag</b> is used to group elements together to create sections or boxes on a webpage.</li>
+  <li>I realized that both tags help make web pages organized and easy to design using CSS.</li>
+  <li>Using <b>&lt;span&gt;</b> and <b>&lt;div&gt;</b> makes my webpage look neater, colorful, and well-arranged.</li>
+  <li>I now understand that <b>&lt;div&gt;</b> works like a container, while <b>&lt;span&gt;</b> is for inline styling within text.</li>
+</ul> 
+</div>
+</div>
+
+<br><br>
+<a href="LessonICT(2).html" style="display:inline-block; background-color:#FF875F; color:white; padding:10px 20px; border-radius:20px; text-decoration:none;">Back</a>
+<a href="LessonICT(4).html" style="display:inline-block; background-color:#FF875F; color:white; padding:10px 20px; border-radius:20px; text-decoration:none;">Next page</a> <br><br>
+
+</div>
+
+</body>
+</html>

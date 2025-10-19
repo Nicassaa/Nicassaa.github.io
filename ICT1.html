@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My ICT E-Portfolio</title>
+ <!-- Presentation Layer (CSS) -->
+<style>
+ body {background-color: lightblue;
+      text-align: center;
+      font-family: Arial;}
+    h1 {color: darkblue;}
+    button {background-color: darkblue; color: white;}
+  </style>
+</head>
+
+<body>
+  <!-- Content Layer (HTML) -->
+  <h1>My ICT E-Portfolio</h1>
+  <p>This shows the three layers of a webpage.</p>
+  <button onclick="show()">Click Me</button>
+  <p id="output"></p>
+
+  <!-- Behavior Layer (JavaScript) -->
+  <script>
+    function show() {
+      document.getElementById("output").innerHTML = "This is the Behavior Layer!";
+    }
+  </script>
+</body>
+</html>
