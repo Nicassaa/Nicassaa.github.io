@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>Personal Space</title>
+</head>
+
+<h1>Personal Space</h1>
+
+<body style="background-color:#3A4A3F; font-family:Arial; text-align:center; margin:0; padding:20px;">
+
+<div style="background-color:#A9D2A6; border-radius:15px; padding:200px; width:450px; margin:auto;">
+
+<div style="background-color:#8CCCA2; border-radius:10px; padding:5px; width:450px; height:350px; margin:auto;">
+
+<!-- Personal Info hehe -->
+<img src="Tam2.jpg" alt="My Picture" width="200" height="200" style="border-radius:10px;"><br><br>
+
+<p>Name: Tamara Nikka Fajardo Barlis</p>
+<p>Age: 14</p>
+<p>Birthday: December 1, 2010</p>
+</div>
+
+<h2> Favorites </h2>
+ 
+<div style="background-color:#DFF5E3; border-radius:10px; padding:5px; width:450px; height:130px; margin:auto;">
+<p>My favorite color is green because I love nature. Green makes me feel closer to it and brings many benefits, such as boosting my mood and soothing stress. 
+People often mistake my favorite color for red or pink since I have a lot of things in those colors too. 
+I’m not even sure why — they just easily catch my eye. </p>
+</div>
+<br>
+<div style="background-color:#DFF5E3; border-radius:10px; padding:5px; width:450px; height:130px; margin:auto;">
+<p> My favorite foods are Tinola and Carbonara — especially when my mom cooks them.
+ My favorite snacks are BREAD!!!, cassava cake, pichi-pichi, sour-sweet candies, and chocolates.
+ I’m definitely a sweet tooth! I even prefer eating bread over rice sometimes, minsan papagalitan ako ni mama dahil inuna ko ang tinapay kesa sa lunch. </p> 
+</div>
+<br>
+<div style="background-color:#DFF5E3; border-radius:10px; padding:5px; width:450px; height:130px; margin:auto;">
+<p> My favorite hobby is singing at the top of my lungs until my siblings start complaining about how noisy I am! I just really love singing. 
+I’m also learning how to play the guitar, which makes me enjoy music even more. </p>
+</div>
+
+<br>
+<hr>
+
+<!-- Best Friends -->
+<h2>This is my Circle of Friends!</h2>
+<br>
+
+<div style="background-color:#DFF5E3; border-radius:10px; padding:5px; width:480px; height:250px; margin:auto;">
+<h4> Where it all began: Friendship that never graduated </h4>
+<br>
+<p>This is my first circle of friends that began when we were still in elementary school. Even though we now study in different schools and don’t see each other often, our bond remains the same whenever we meet. I really misssss them, they were the ones who stayed by my side during one of the hardest times in my grade 6 life HAHAHAHA. That’s why I treasure them sooo muchhh. </p>
+</div>
+
+<br>
+
+<div style="background-color:#DFF5E3; border-radius:10px; padding:5px; width:480px; height:110px; margin:auto;">
+<ul> Introducing my Gorlsz </ul>
+<li> The short-haired girl with no bangs is Tanya. </li>
+<li> The short-haired girl with bangs is Princess. </li>
+</ul>
+</div>
+
+<br>
+
+<img src="Elemcof1.jpg" alt="Friend 1" width="200" height="300" style="margin:5px; border-radius:10px;">
+<img src="Elemcof2.jpg" alt="Friend 2" width="200" height="300" style="margin:5px; border-radius:10px;"><br><br>
+
+<div style="background-color:#DFF5E3; border-radius:10px; padding:5px; width:480px; height:320px; margin:auto;">
+<h4> My Constant Variable in Highschool </h4>
+<p> This is my 2nd circle of friends that started back in 7th grade.
+It’s honestly funny how we became friends. It didn’t start from strangers to classmates to friends — something unexpected happened between us. 
+At first, we were all strangers, then classmates, and since our section back then was full of pasaways, we actually had fights. 
+Two of my friends almost ended up bringing each other to the guidance office! There was backstabbing, sulking, and a bit of drama because of that “issue” in our section (where one of my friends got involved too.) 
+But in the end, it all turned out to be a big misunderstanding among all of us. 
+And after that... I don’t even know how, but we suddenly became friends — the Benevogang was born HAHAHAHHAHA. (tinatawanan nalang po namin mga pinaggagawa namin dati) </p>
+</div>
+<br>
+
+ <video src="Benevogang-video.mp4.mp4" width="300" controls type="video/mp4"></video>
+<div style="background-color:#DFF5E3; border-radius:10px; padding:5px; width:480px; height:200px; margin:auto;">
+<ul> Introducing my Constants </ul>
+<li> Mary Nicole Manguerra </li>
+<li> Chaello Abellon </li>
+<li> Sefie Labador </li>
+<li> Sofia Dionglay </li>
+<li> Sophia Reyes </li>
+<li> Leira Pangilinan </li>
+</ul>
+</div>
+
+<hr>
+
+<!-- Family -->
+<h3>This is my Family</h3>
+<img src="Fam1.jpg" alt="Family 1" width="500" height="500" style="margin:5px; border-radius:10px;">
+<img src="Fam2.jpg" alt="Family 2" width="500" height="350" style="margin:5px; border-radius:10px;"><br><br>
+
+<div style="background-color:#DFF5E3; border-radius:10px; padding:5px; width:450px; height:150px; margin:auto;">
+<p> My family is my greatest source of love and support. My mother, Marjorie, is a caring and hardworking woman who always makes sure we're happy and safe. My Father, Tom, is patient and responsible, he teaches us to stay strong and do our best. We are the tresmarias siblings: Alexia (pangalawa) and Samantha (bunso) and I (panganay). We may not be perfect, but we always help each other through challenges.</p>
+</div>
+
+<br>
+
+<!-- Back button -->
+<a href="Nextpage1.html" style="display:inline-block; background-color:#FF875F; color:white; padding:10px 20px; border-radius:20px; text-decoration:none;">Back</a>
+
+</div>
+
+</body>
+</html>
+

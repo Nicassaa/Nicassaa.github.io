@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Memories</title>
+</head>
+<body style="font-family: Arial; background-color: #fff8f0;">
+
+  <h1 style="text-align: center;">Memories</h1>
+
+  <div style="background-color: #ffe5b4; border: 2px solid #d2b48c; border-radius: 10px; padding: 15px; margin: 20px;">
+    <h2>Intrams</h2>
+    <p>Our school sports event where everyone competed and had fun.</p>
+    <img src="Inp1.jpg" width="200">
+    <img src="Inp2.png" width="200"><br>
+<br>
+<p> Litrato mula kay Nicole at sa Paham </p>
+    <video src="INTRAMSVID.mp4" width="300" controls type-"video/mp4"></video>
+<p> Although I did not participate in Intrams, I learned about the value of sportsmanship and staying active.
+ Watching my classmates compete made me realize how important teamwork and discipline are, both in sports and in life. 
+ I would explain to others that Intrams is a time to encourage physical fitness and cooperation. Having this event motivates students to stay healthy and work well with others.</p>
+  </div>
+
+  <div style="background-color: #ffe5b4; border: 2px solid #d2b48c; border-radius: 10px; padding: 15px; margin: 20px;">
+    <h2>AP Month</h2>
+    <p>Celebrating Araling Panlipunan with projects, performances, and exhibits.</p>
+    <img src="ARp1.png" width="200">
+    <img src="ARp2.png" width="200"><br>
+<p> Litrato mula sa Paham </p>
+    <video src="APVID.mp4" width="300" controls type="video/mp4"></video>
+<p> In AP Month, I participated in the quiz held inside the classroom. This helped me review and strengthen my knowledge of Araling Panlipunan topics.
+ I realized that learning about history and government is important because it helps us understand real-life situations and current events better. 
+If I were to teach a friend, I would tell them that AP Month makes learning fun and interactive through quizzes and projects.
+ Events like this help us remember important lessons and apply them outside school. </p>
+  </div>
+
+  <div style="background-color: #ffe5b4; border: 2px solid #d2b48c; border-radius: 10px; padding: 15px; margin: 20px;">
+    <h2>Science Month</h2>
+    <p>We had experiments, quizzes, and fun science activities.</p>
+    <img src="SCp1.jpg" width="200">
+    <img src="SCp2.png" width="200"><br>
+<p> Litrato mula kay Tamara at sa Paham </p>
+    <video src="RESEARCHVID.mp4" width="300" controls type="video/mp4"></video>
+<p> During Science Month, I participated in the research defense with my group. 
+This experience taught me how to prepare, present, and defend our research, which improved my confidence and scientific understanding. 
+I would explain Science Month as a time to explore experiments and research projects that develop critical thinking.
+ This event is important because it helps us build skills that can solve real-world problems and improve our future.</p>
+  </div>
+
+  <div style="background-color: #ffe5b4; border: 2px solid #d2b48c; border-radius: 10px; padding: 15px; margin: 20px;">
+    <h2>Buwan ng Wika</h2>
+    <p>A celebration of Filipino language and culture through speeches and performances.</p>
+    <img src="BWp1.png" width="200">
+    <img src="BWp2.png" width="200"><br>
+<p> Litrato mula sa Paham </p>
+    <video src="BUWANNGWIKAVID.mp4" width="300" controls type="video/mp4"></video>
+<p> During Buwan ng Wika, I learned the importance of celebrating our Filipino culture and traditions. 
+I was surprised and happy to be chosen for the best attire in our level, which made me appreciate our heritage even more. 
+This event showed me how important it is to respect and promote our culture in everyday life.
+ If I were to explain it to a classmate, I would say it’s a special celebration of Filipino language and history through fun activities. </p>
+Having this event helps us build pride in who we are as Filipinos.
+  </div>
+
+  <div style="background-color: #ffe5b4; border: 2px solid #d2b48c; border-radius: 10px; padding: 15px; margin: 20px;">
+    <h2>Teachers Day</h2>
+    <p>We visited museums and learned about history and science outside the classroom.</p>
+    <img src="Tp1.png" width="200">
+    <img src="Tp2.jpg" width="200"><br>
+<p> Litrato mula sa Paham at sa Faith </p>
+    <video src="TEACHERSDAY.mp4" width="300" controls type="video/mp4"></video>
+<p> For Teachers’ Day, I actively joined the choir for our music video and helped with the intermission and planning of the program. 
+Through this event, I learned about teamwork and the joy of honoring our teachers for their hard work.
+ Teaching this to a friend, I’d say it’s a special day when we show gratitude by organizing fun activities.
+ It’s important because it motivates teachers and strengthens the student-teacher relationship. </p>
+  </div>
+
+<br><br>
+<a href="Nextpage1.html" style="display:inline-block; background-color:#FF875F; color:white; padding:10px 20px; border-radius:20px; text-decoration:none;">Back</a>
+
+
+</body>
+</html>
